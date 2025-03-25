@@ -1,6 +1,8 @@
 # a-test-github-project
 ## 2
 ### **bold**
+1. This is Chonhan's first line commit
+1. This is Chonhan's second line commit
 ~~strikethrough~~
 *italic text*
 - Item 1
